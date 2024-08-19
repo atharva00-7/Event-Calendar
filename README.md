@@ -1,8 +1,26 @@
-# React + Vite
+# React Calendar Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive calendar application built with React, using Context API for state management and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View a calendar with all events
+- Add new events with title and date
+- View a list of all events
+- Edit existing events
+- Delete events
+- Responsive design
+
+## Technologies Used
+
+- React
+- React Router
+- Context API
+- react-big-calendar
+- Tailwind CSS
+- date-fns
+- moment.js
+
+## Installation
+
+1. Clone the repository:git clone https://github.com/atharva00-7/EventCalendar.git
