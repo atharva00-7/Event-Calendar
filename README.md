@@ -2,6 +2,8 @@
 
 A simple and intuitive calendar application built with React, using Context API for state management and Tailwind CSS for styling.
 
+## Live link: https://event-calendar-five.vercel.app/
+
 ## Features
 
 - View a calendar with all events
