@@ -41,13 +41,13 @@ A simple and intuitive calendar application built with React, using Context API 
 
 ## Project Structure
    src/
-      components/
-         Calendar.js
-         EventForm.js
-         EventList.js
-         EventDetails.js
-      context/
-         EventContext.js
+      -components/
+         --Calendar.js
+         --EventForm.js
+         --EventList.js
+         --EventDetails.js
+      -context/
+         --EventContext.js
    App.js
    index.js
 
